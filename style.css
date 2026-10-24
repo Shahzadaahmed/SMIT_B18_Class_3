@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#custom-badge {
+    background-color: #F5EDED !important;
+    color: #8D211B !important;
+    font-weight: normal !important;
+}
